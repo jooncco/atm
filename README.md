@@ -9,7 +9,7 @@ This is an automated BTC/USDT futures trading bot.
 - Integrated with [OKX](https://www.okx.com/) [Python SDK](https://www.okx.com/docs-v5/en/#overview-api-resources-and-support).
 - Refer to [API Docs](https://www.okx.com/docs-v5/en/#overview-api-resources-and-support) for more info.
 
-## License
+## LICENSE
 
 MIT License
 
