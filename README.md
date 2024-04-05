@@ -4,10 +4,12 @@
 
 ## About
 
-This is an automated BTC/USDT futures trading bot.
+Automated BTC/USDT futures trading bot.
 
-- Integrated with [OKX](https://www.okx.com/) [Python SDK](https://www.okx.com/docs-v5/en/#overview-api-resources-and-support).
-- Refer to [API Docs](https://www.okx.com/docs-v5/en/#overview-api-resources-and-support) for more info.
+- The [official OKX API](https://www.okx.com/docs-v5/en/#overview) doesn't provide java SDK. This gives you an example of java integration.
+- Shares some of my strategy of futures trading.
+
+> ⚠️ You take your own risks to make your own money. DO NOT blame no one else for consequences.
 
 ## LICENSE
 

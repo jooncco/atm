@@ -1,0 +1,43 @@
+# Gradle-specific
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# IDE-specific
+.idea/
+*.iml
+
+# Compiled Java classes
+*.class
+
+# Compiled Gradle files
+build/
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Spring Boot specific
+/target/
+!src/main/
+!src/test/
+!src/integrationTest/
+
+# Application properties
+/src/main/resources/application.properties
+/src/main/resources/application*.yml
+
+# Logs
+/log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
