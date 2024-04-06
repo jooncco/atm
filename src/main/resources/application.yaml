@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: atm
+
+info:
+  app:
+    name: atm
+    description: Automated trading bot for futures trading.
+    version: 1.0.0
+    formatted-version: v1.0.0
+    
